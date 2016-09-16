@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[is2SetupAdmin.sln]
+SCC_Aux_Path = "\\is2\VSS_DB\is2_vss"
+SCC_Project_Name = "$/iStar2/iS_ap/app/net/is2SetupAdmin", SAEAAAAA
+
+[is2SetupAdmin.vdproj]
+SCC_Aux_Path = "\\is2\VSS_DB\is2_vss"
+SCC_Project_Name = "$/iStar2/iS_ap/app/net/is2SetupAdmin", SAEAAAAA
